@@ -1,4 +1,4 @@
-### Implementations of basic operations of data structures using class data type:
+### Implementations of basic operations of data structures using [OOP concepts](https://en.wikipedia.org/wiki/Object-oriented_programming):
 
 | Data structure | Operations |
 | ------ | ------ |
